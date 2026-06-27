@@ -6,6 +6,8 @@ Sistema de notificação financeira automática via WhatsApp, com integração O
 
 - Cadastro e login de usuários
 - Registro de transações com categorias (entrada/saída)
+- Suporte a compras parceladas com geração automática de parcelas
+- Alertas de parcelas vencendo nos próximos 3 dias
 - Integração com Open Finance via Pluggy
 - Notificação automática no WhatsApp a cada 2 horas com resumo financeiro
 - Suporte a múltiplos números de WhatsApp
